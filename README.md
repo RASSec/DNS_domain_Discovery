@@ -16,8 +16,7 @@ python dns_s.py cert.org.cn
 ```
 
 
-thx:
 
 Filip Waeytens		<filip.waeytens[at]gmail.com>
 
-cve.wang			<exp_data@126.com>
+cve.wang			<exp_data[at]126.com>
