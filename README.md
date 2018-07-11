@@ -19,4 +19,4 @@ python dns_s.py cert.org.cn
 
 Filip Waeytens		<filip.waeytens[at]gmail.com>
 
-cve.wang			<exp_data[at]126.com>
+__author__ : yds
